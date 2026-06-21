@@ -45,7 +45,7 @@ Manually copying and pasting IPs and domains from suspicious text into threat in
 
 | Main Interface | Detailed Vendor View | HTML Export Report |
 | :---: | :---: | :---: |
-| ![Main UI](https://via.placeholder.com/400x250/1e1e1e/ffffff?text=Main+GUI+Screenshot) | ![Details](https://via.placeholder.com/400x250/1e1e1e/ffffff?text=Vendor+Details+Modal) | ![HTML](https://via.placeholder.com/400x250/1e1e1e/ffffff?text=HTML+Report+Screenshot) |
+| ![Main UI](images/main_ui.png) | ![Details](images/review_details.png) | ![HTML](images/html_report.png) |
 
 ---
 
