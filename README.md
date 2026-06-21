@@ -61,4 +61,4 @@ Manually copying and pasting IPs and domains from suspicious text into threat in
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/ioc-analyzer-pro.git
-   cd ioc-analyzer-pro
+   cd ioc-analyzer
